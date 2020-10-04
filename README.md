@@ -1,6 +1,5 @@
 # secKill
 High concurrency second kill system
-How to play
 1.git clone https://github.com/wl37668623/seckill.git
 2.open IDEA --> File --> New --> Open
 3.choose seckill's pom.xml，open it
